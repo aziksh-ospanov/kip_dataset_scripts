@@ -1,4 +1,4 @@
-# Official Implementation: Image Deduplication for "The KIP Dataset: Socialist Popular Science in a Sino-Soviet Image Dataset Based on Chinese and Soviet magazines (1956-1962)"
+# Official Implementation: "The KIP Dataset: Socialist Popular Science in a Sino-Soviet Image Dataset Based on Chinese and Soviet magazines (1956-1962)"
 
 This repository contains the source code for the dataset cleaning and deduplication pipeline used in the paper **"The KIP Dataset: Socialist Popular Science in a Sino-Soviet Image Dataset Based on Chinese and Soviet magazines (1956-1962)"**.
 
